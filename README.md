@@ -20,5 +20,7 @@ Create Lib folder
 
 Copy your Tesseract-OCR to venv/Lib:
 ```bash
-    ./venv/Lib/Tesseract-OCR
+venv
+ └── Lib
+      └── Tesseract-OCR
 ```
