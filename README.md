@@ -12,15 +12,10 @@ Install all necessary libs:
     pip install -r requiment.txt
 ```
 
-Create Lib folder
-
-```bash
-    mkdir venv/Lib
-```
-
 Copy your Tesseract-OCR to venv/Lib:
 ```bash
 venv
+ ├── Include
  └── Lib
       └── Tesseract-OCR
 ```
