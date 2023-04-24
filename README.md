@@ -9,7 +9,7 @@ Project convert Handwriting image to PDF file
 Install all necessary libs:
 
 ```bash
-    pip install -r requiment.txt
+pip install -r requiment.txt
 ```
 
 Copy your Tesseract-OCR to venv/Lib:
